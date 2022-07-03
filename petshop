@@ -1,0 +1,73 @@
+<html>
+    <body>
+        <header class="imgg">
+            <img src ="https://previews.123rf.com/images/urfandadashov/urfandadashov1809/urfandadashov180900227/109062668-minimalist-dog-vector-icon-isolated-on-transparent-background-minimalist-dog-logo-concept.jpg" height="50px"/>
+            <nav>
+                <a href="">Home</a>
+                <a href="#catalog">Catalog</a>
+              
+                <a href="#principles">Our principles</a>
+                
+            </nav>
+        </header>
+        <main>
+            <h1>Pet Shop</h1>
+            <img class="head_img" src="https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d" width="870px"/>
+            <h2 id="catalog">Catalog</h2>
+            <section class="catalog">
+                <article class="product">
+                    <img src="https://i.pinimg.com/736x/9f/35/34/9f35342ac4748370a45256cc023c819c.jpg" height="100px"/><br/>
+                    <a href="">Food</a>
+                </article>
+                <article class="product">
+                    <img src="https://i.ebayimg.com/images/g/6xUAAOSwMBtc42zY/s-l300.jpg" height="100px"/><br/>
+                    <a href="">Toys</a>
+                </article>
+                <article class="product">
+                    <img src="https://5.imimg.com/data5/ZK/UG/DI/SELLER-49409162/plastic-pet-house-250x250.png" height="100px"/><br/>
+                    <a href="">Houses</a>
+                </article>
+                <article class="product">
+                    <img src="https://m.media-amazon.com/images/I/71xOphzcoVL.jpg" height="100px"/><br/>
+                    <a href="">Grooming</a>
+                </article>
+                <article class="product">
+                    <img src="https://cdn.hswstatic.com/gif/pet-meds-for-traveling-1.jpg" height="100px"/><br/>
+                    <a href="">Veterinary medicine</a>
+                </article>
+                <article class="product">
+                    <img src="background: rgb(251,251,169);
+background: linear-gradient(0deg, rgba(251,251,169,1) 19%, rgba(238,207,20,1) 100%);" height="100px"/><br/>
+                    <a href="">Useful books</a>
+                </article>
+            </section>
+            <h2 id="principles">Our principles</h2>
+            <section class="principles">
+                <article class="principle">
+                    <img src="/uploads/2021/02/chemistry-2389151_640_0_1612518875.png" width="50px" height="50px"/>
+                    <p>goods undergo veterinary examination</p>
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/truck-1918551_640_0_1612518875.png" width="80px" height="50px"/>
+                    <p>delivery to any point of the city</p>
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/icons-1831923_640_0_1612518875.png" width="50px" height="50px"/>
+                    <p>free consultation</p>
+                </article>
+            </section>
+            <article class="slogan">
+                <div class="slogan_img">
+                    <img src="https://flyclipart.com/thumb2/black-cat-vector-607684.png" width="70px"/>
+                </div>
+                <div class="slogan_text">
+                    <p>Your pets will love our store!</p>
+                </div>
+            </article>
+        </main>
+        <footer>
+            <p>Email: nia.khoperia9@gmail.com</p>
+            <p>Telephone: 557-34-64-22</p>
+        </footer>
+    </body>
+</html>
